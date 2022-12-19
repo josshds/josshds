@@ -5,7 +5,7 @@
 ## Hey! 👋
 I'm Jossh, a 19 years learner web developer,
 
-- 🧭 Founder at [@company](https://github.com/th8ta) and [@dscimpanycompany](https://github.com/useverto)
+- 🧭 Founder at [@company] and [@dscompanycompany]
 
 - 👥 Core team member at [@prodctscompany](https://github.com/nestdotland)
 
