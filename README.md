@@ -3,14 +3,14 @@
 </h1>
 
 ## Hey! 👋
-I'm Jossh, a 19 years old web developer from Peru.
+I'm Jossh, a 19 years learner web developer,
 
-- 🧭 Founder at [@company](https://github.com/th8ta) and [@productscompany](https://github.com/useverto)
+- 🧭 Founder at [@company](https://github.com/th8ta) and [@dscimpanycompany](https://github.com/useverto)
 
-- 👥 Core team member at [@dscompany](https://github.com/nestdotland)
+- 👥 Core team member at [@prodctscompany](https://github.com/nestdotland)
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, C#
+- 👨‍💻 TypeScript, PHP, C#
 - ⚙️ React, Svelte, Vue
 - 👁️ SASS, CSS, Stylus
 - 💽 MySQL, SQL
