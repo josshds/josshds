@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://media.giphy.com/media/8OWQa1KxfGDg4/giphy.gif" />
+</h1>
 
-<!--
-**josshds/josshds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm Jossh, a 19 years old web developer from Peru.
 
-Here are some ideas to get you started:
+- 🧭 Founder at [@company](https://github.com/th8ta) and [@productscompany](https://github.com/useverto)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👥 Core team member at [@dscompany](https://github.com/nestdotland)
+
+## Skills
+- 👨‍💻 TypeScript, JavaScript, PHP, C#
+- ⚙️ React, Svelte, Vue
+- 👁️ SASS, CSS, Stylus
+- 💽 MySQL, SQL
+
+## Contact
+- [@jossh_dxls](https://twitter.com/instagram) on Instagram
+- [××Axelds¶¶#2152](./) on Discord
