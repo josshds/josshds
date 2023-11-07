@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Jossh, a 19 years learner web developer,
+I'm Jossh, a 20 years learner web developer,
 
 - 🧭 Founder at [@company](https://github.com/dscompany) and [@dscompanycompany](https://github.com/dscompany)
 
